@@ -73,6 +73,15 @@ This page details changes made in each version of the Quality Measure IG
 * **Applied**: Refactor Shareable and Publishable profiles and repositories to use CRMI	([FHIR-44642](https://jira.hl7.org/browse/FHIR-44642))
 * **Applied**: Addition Change for ImprovementNotation	([FHIR-44711](https://jira.hl7.org/browse/FHIR-44711))
 * **Applied**: Correct the url for CQL specification	([FHIR-44991](https://jira.hl7.org/browse/FHIR-44991))
+* **Applied**: Update text in Measure.improvementNotation cmp-4	([FHIR-45311](https://jira.hl7.org/browse/FHIR-45311))([Applied here](StructureDefinition-computable-measure-cqfm.html#profile))
+* **Applied**: Update text in Quality Measurement Standards Landscape([FHIR-45575](https://jira.hl7.org/browse/FHIR-45575))([Applied here](index.html#quality-improvement-ecosystem))
+* **Applied**:  Remove the reference to ValueSet-artifact-comment-type ([FHIR-45841](https://jira.hl7.org/browse/FHIR-45841))
+* **Applied**: Remove the reference to ValueSet-value-filter-comparator.html ([FHIR-45842](https://jira.hl7.org/browse/FHIR-45842))
+* **Applied**: Conformance statements text change ([FHIR-45886](https://jira.hl7.org/browse/FHIR-45886))([Applied here](using-cql.html#libraries))
+* **Applied**: Add links for referenced profiles in Conformance Requirement 3.1	([FHIR-45875](https://jira.hl7.org/browse/FHIR-45875))([Applied here](measure-conformance.html#related-documents))
+* **Applied**: Update terminology guidance ([FHIR-45887](https://jira.hl7.org/browse/FHIR-45887))([Applied here](measure-conformance.html#terminology))
+* **Applied**: Correct Correct description of capability profiles ([FHIR-45914](https://jira.hl7.org/browse/FHIR-45914))([Applied here](profiles.html#capability-profiles))
+* **Applied**: Update Sentence Regarding All Codes and Valuesets in Terminology section ([FHIR-46290](https://jira.hl7.org/browse/FHIR-46290))([Applied here](measure-conformance.html#terminology))
 
 
 
